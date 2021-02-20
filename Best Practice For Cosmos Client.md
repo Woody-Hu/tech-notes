@@ -20,5 +20,5 @@
 
 7. query will use higher ru https://devblogs.microsoft.com/cosmosdb/point-reads-versus-queries/
 
-8.
+
 
